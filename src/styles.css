@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 15vh;
+}
+body {
+  background: linear-gradient(90deg, rgb(252, 195, 204), white);
+  background-size: 100vw;
+  height: 80vh;
+}
+.list {
+  border: 2px solid rgb(172, 56, 75);
+  width: 60vw;
+  margin: auto;
+  padding: 10px;
+  box-shadow: 2px 2px 4px 4px rgb(139, 28, 46);
+  background: linear-gradient(180deg, pink, white);
+}
+.h6 {
+  border: 1px solid rgb(196, 87, 105);
+  width: 30vw;
+  margin: auto;
+  padding: 3px;
+  border-radius: 5px;
+}
+input {
+  text-align: center;
+  opacity: 0.9;
+  border-radius: 3px;
+}
+button {
+  background: linear-gradient(180deg, violet, white);
+  padding: 3px;
+  border-radius: 5px;
+}
+button:hover {
+  background: linear-gradient(180deg, white, rgb(177, 78, 95));
+}
+#foot {
+  margin-top: 30vh;
+  font-size: 14px;
+  background-color: white;
+}

@@ -1,2 +1,0 @@
-# NoteList
-Created with CodeSandbox
